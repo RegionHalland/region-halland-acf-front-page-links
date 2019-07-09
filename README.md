@@ -10,6 +10,15 @@ Nedan följer instruktioner hur du kan använda pluginet "region-halland-acf-fro
 Denna plugin skapar en array() med länkar
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell på:
+```sh
+A) Gnu.org (https://www.gnu.org/licenses/gpl-3.0.html)
+B) Wikipedia (https://sv.wikipedia.org/wiki/GNU_General_Public_License)
+```
+
+
 ## Installation och aktivering
 
 ```sh
@@ -77,7 +86,11 @@ array (size=2)
       'title' => string 'Rutiner' (length=7)
 ```
 
+
 ## Versionhistorik
+
+### 1.1.0
+- Uppdaterad med information om licensmodell
 
 ### 1.0.0
 - Första version
