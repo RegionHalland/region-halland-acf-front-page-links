@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland ACF Front Page Links
 	Description: Front-page-plugin för ACF-länkar på sajtens front-page
-	Version: 1.2.0
+	Version: 1.2.1
 	Author: Roland Hydén
 	License: GPL-3.0
 	Text Domain: regionhalland
